@@ -4,7 +4,7 @@
 
 With more and more games becoming accessible to visually impaired players through modding every week, I noticed a frustrating trend: most of these mods are designed exclusively for keyboard users. For a controller lover like me, that was a real pain.
 
-To solve this, I decided to create custom Steam Input layouts to suit my needs. I think other blinds might be looking for the the same cakes, so I wanted to share them here.
+To solve this, I decided to create custom Steam Input layouts to suit my needs. I think other blinds might be looking for the same cakes, so I wanted to share them here.
 
 
 
@@ -12,7 +12,7 @@ Naturally, these layouts aren't just for blind players who want to mimic a conso
 
 
 
-Of course, you could always create these layouts yourself, but since I’ve already done the heavy lifting, feel free to use miit with minimal set up. At the very least, this project serves as a reliable archive for me to remember my own control schemes when returning to a game after taking a break.
+Of course, you could always create these layouts yourself, but since I’ve already done the heavy lifting, feel free to use it with minimal set up. At the very least, this project serves as a reliable archive for me to remember my own control schemes when returning to a game after taking a break.
 
 ---
 
@@ -26,6 +26,7 @@ Aside from Steam Input layout configurations, I also write detailed gameplay gui
 * **FAQ Sections:** I will also include solutions to the most frequently asked questions for each game if I feel they are essential. But don't expect much anyway, because I'm a lazy onion.
 * **Platform Focus:** Please note that all guides are for **Windows + the NVDA screen reader**. If you are using JAWS or playing on a different platform, these guides might not fully apply to your setup.
 
+---
 
 ## Requests & Supported Devices
 
