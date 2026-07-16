@@ -38,6 +38,9 @@ Load order, I'm not quite sure. But to be safe, *Auto Input Switch* should be pl
 
 After both mods have been installed and enabled in your choice of mod manager, you're ready to grab this layout!
 
+> This step assume you're using Steam in normal mode, not a big picture mode. However, in big picture mode may easier in certain parts, I just didn't use it to write this guide.
+
+
 1. Open Steam, go to your library, and select Skyrim.
 2. Look for the **"Configure Controller"** button, which is located below the Play and Manage buttons, and click on it.
 3. Find **"Using the game's built-in support Enable Steam Input"** and click on it. Your NVDA should now read: *"Using Steam Input Translation Disable Steam Input"*. Oh, you're almost there!
@@ -86,7 +89,7 @@ Alright, time to get a little bit of a headache. You will need your lovely keybo
 
 I need to warn you beforehand: these hotkeys only swap your equipped spell or gear. They don't mean that pressing an X + X hotkey will automatically cast a spell or swing a weapon, it doesn't work like that. You still need to use **LT** for your left-hand spell/shield, and **RT** for your right-hand weapon/bow/spell.
 
-1. Before creating hotkeys and using this layout, you'll want to rebind **F5** (Quick Save), **F9** (Quick Load), and **F12** (Steam Screenshot) to something else. Otherwise, you might run into issues using this input layout.
+> Before creating hotkeys and using this layout, you'll want to rebind **F5** (Quick Save), **F9** (Quick Load), and **F12** (Steam Screenshot) to something else. Otherwise, you might run into issues using this input layout.
 
 **Changing F12:** Please open your Steam client, go to your library, select Skyrim, and click on the "Manage" button. After that, click on "Properties." You'll see an option that says "Enable the Steam Overlay while in-game." Uncheck that box.
 
@@ -95,11 +98,11 @@ I need to warn you beforehand: these hotkeys only swap your equipped spell or ge
 **Changing F5 and F9:** This can be done very easily in the in-game control settings. Just use your keyboard to go to Settings > Controls, look for the Quick Save and Quick Load keys, and rebind them to something else. I personally use `[` and `]` respectively. You can follow my setup or rebind them to any keys you don't use at all on your keyboard. And as a reminder, we never recommend using Quick Save and Auto Save in Skyrim anyway, heheheh.
 
 
-2. In-game, add your desired spell, item, potion, or equipment to the favorite menu. I guess you already know how to do this.
+1. In-game, add your desired spell, item, potion, or equipment to the favorite menu. I guess you already know how to do this.
 
-3. Open the favorite menu by pressing **Q**. I think you already know this one too.
+2. Open the favorite menu by pressing **Q**. I think you already know this one too.
 
-4. Press **Left Ctrl + 1 to 8**, or **F3 to F12** to create a hotkey.
+3. Press **Left Ctrl + 1 to 8**, or **F3 to F12** to create a hotkey.
 
 > My layout only supports the key list mentioned above, so don't try to map it to other keys. If you do, I'll spank you.
 
