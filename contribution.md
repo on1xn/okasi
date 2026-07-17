@@ -20,7 +20,7 @@ To maintain a consistent and highly readable layout across the entire project, p
 * **Heading Hierarchy:** All guides must start with a Heading 1 (`#`) for the guide's title. Use Heading 2 (`##`) through Heading 4 (`####`) for subsequent sub-sections.
 * **Section Separators:** End each major section with a horizontal rule (`---`) to create a clean visual separation.
 * **Bullet Points:** Use asterisks (`*`) to create bulleted lists. This applies to both mod lists and step-by-step instructions.
-* **Mod Links:** Format all mod names and their corresponding download links as: `**[Mod Name](Download Link)**`.
+* **Mod Links:** Format all mod names and their corresponding download links as: `**[Mod Name](Download Link)**`. And don't forget to add a brief description.
 * **Spacing in Lists:** For the accessible mods list, please insert two blank lines between each bullet point to keep the text spacious and easy to read.
 
 * **Bold Emphasis:** While not strictly mandatory, feel free to use bold text (`**text**`) to highlight key terms or emphasize instructions (e.g., **Do this: X, Y, Z**). It helps keep our styling uniform, especially since AI tools love using this format, and we want to keep things consistent!

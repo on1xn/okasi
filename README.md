@@ -25,7 +25,7 @@ By taking the first letter of each word in the phrase, I formed the basis of the
 ## 🎮 Features
 
 * **Controller-Friendly Layouts:** Steam Input configurations mapped specifically to work seamlessly with accessibility mods.
-* **Handheld Ready:** Optimized to enhance the gaming experience on devices like the Steam Deck, ASUS ROG Ally, and Lenovo Legion Go.
+* **Handheld Ready:** Optimized to enhance the gaming experience on devices like the Steam Deck, ASUS ROG Ally, and similar devices.
 * **Detailed Guides:** Written for upper-beginner to advanced players, focusing on gameplay, moding or other topics that usually blind gamer may not do it.
 
 > **Note:** All guides are specifically for **Windows + the NVDA screen reader**. They're not fully apply to JAWS or other platforms like GOG and epic store. And I can answer only questions on Windows, NVDA and Steam.
