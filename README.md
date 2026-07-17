@@ -1,4 +1,4 @@
-# 🧅 ON1XN Guides & Steam Input Layout For The Blinds!
+# 🧅 ON1XN Guides & Steam Input Layouts For The Blinds!
 
 Welcome! This project provides custom Steam Input layouts information and gameplay guides designed specifically for visually impaired players. 
 
@@ -12,9 +12,9 @@ The name of this project comes from the Japanese word **"お菓子" (Okashi)**, 
 
 If you add another "i" to the end to make it **"Okashii"**, the meaning shifts to **"funny"** or **"ridiculous."**
 
-This wordplay perfectly reflects the vision behind this project. Just like how we enjoy eating snacks in our free time, we play games for the same simple pleasure. At the same time, some people might look at what I've built here and think it's a bit ridiculous, wondering, *"Why even bother doing all this?"* 
+This wordplay reflects the vision behind this project. Just like how we enjoy eating snacks in our free time, we play games for the same simple pleasure. At the same time, some people might look at what I've built here and think it's a bit ridiculous, wondering, *"Why even bother doing all this?"* 
 
-In addition, the name is a creative combination of **"ON1XN guides and Steam Input Layout."**
+In addition, the name is a combination of **"ON1XN guides and Steam Input Layouts."**
 
 By taking the first letter of each word in the phrase, I formed the basis of the project's name. Then I replaced the "G" (from Guides) with a "K" because of their similar sounds. (Yes, even a little)
 
