@@ -1,24 +1,17 @@
 # Skyrim Guide for the Blind by ON1XN
 
-
 I originally created this project as a personal notebook, but I think other blind players could also benefit from these guides.
 
 
 To manage expectations, please note that this is **not an official setup guide. It won't cover basic mod installations, how to use them, or standard in-game workarounds unless specifically requested or if I personally find it essential. Because of this, the content is best suited for upper-beginner, intermediate, or advanced players. That being said, I tend to write my guides in great detail, so even if you are a beginner, I'm hope you'll be able to follow along. Although, some basic details / info, I may not mention at all, please keep in mind. 
 
-
 > Note: All guides relate to mod installation, I'm using MO2. So I can't answer any questions about vortex.
 
-
-Another major objective of this project is to list of interesting and accessible mods for blind players. By using this list, you can easily pick mods that I have already personally tested, saving you from the exhausting task of browsing through all 137,000+ mods available on Nexus mod. Futhermore, I'll listed non-accessible mods as well, to prevent wasting time to install them.
-
+Another major objective of this project is to list of interesting and accessible mods for blind players. By using this list, you can easily pick mods that I have already personally tested, saving you from the exhausting task of browsing through all 137,000+ mods available on Nexus mod. And I'll listed non-accessible mods as well, to prevent wasting time to install them.
 
 Interestingly, my list includes many things that sighted players regularly install, such as quest expanders, immersion mods, body physics, weapons, and clothing. These are things that a typical blind player might not install at all (but I did anyway!). This list will expand slowly over time, as I can't install everything at once, and I want to fully experience the vanilla game before adding mods that extend the main storyline, events, or quests.
 
-
 Here's link to buy the game: [The Elder Scrolls V: Skyrim Special Edition / Anniversary Edition](https://store.steampowered.com/app/489830/The\_Elder\_Scrolls\_V\_Skyrim\_Special\_Edition/)
-
-
 
 You can found the official Skyrim access mod links here: 
 
@@ -32,8 +25,10 @@ You can found the official Skyrim access mod links here:
 
 ## Guides
 
-
-* **[Skyrim Input Layout, and the blind mage happy meal](guides/input_layout.md)**
+* **[Skyrim Input Layout, and the blind mage happy meal (Steam Input Layout and how to set up hotkeys for controllers)](guides/input_layout.md)**
+* **Coming soon!** - Finally have damage voice lines, and wow this little dragonborn complain a lot (PC Head Tracking and Voice Type SE set up and recommended voice packs)
+* **Coming soon!** - Body slide or Blind slide, let's slide on the catwalk! (How to use BodySlide for blinds to install CBBE / 3BA Clothes and Armor)
+* **Coming soon!** - That time I got reincarnated as a blind anime character in the skyrim! (Custom race and follower installation guide)
 
 ---
 
