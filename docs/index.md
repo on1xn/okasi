@@ -1,4 +1,4 @@
-# Welcome to the ON1XN Blind Steam Input Layouts & Guides!
+# Welcome to the ON1XN Guides & Steam Input Layouts For The Blinds!
 
 With more and more games becoming accessible to visually impaired players through modding every week, I noticed a frustrating trend: most of these mods are designed exclusively for keyboard users. For a controller lover like me, that was a real pain.
 

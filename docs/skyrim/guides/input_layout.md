@@ -163,8 +163,9 @@ These are minor issues, but I wanted to mention it here in case you encounter it
 > Note: This might just be an issue on my game, you might see the hotkey labels or you might not see them at all, I'm not sure. Since I have nearly 100 mods installed, one of them might be causing this without actually breaking my game. Everything should be perfectly fine in your case, I suppose.
 
 * If your Left or Right D-pad buttons stop functioning properly, please open your favorite menu and make sure you haven't accidentally assigned a hotkey to them. (Holding left / right D pad here will create a hotkey to the controller, so be careful)
-
 If you did, you can easily fix this by rebuilding your hotkeys following the instructions in the section above. Setting up the hotkeys again will overwrite and delete the old, accidental mappings, restoring your Left/Right D-pad buttons to their intended behavior in this layout.
+
+* Sometimes A button on controller does not work on the map menu to fast travel, please reload your game save or reopen the game to solve this. This is not a bug from my input layout.
 
 ---
 

@@ -3,7 +3,7 @@
 I originally created this project as a personal notebook, but I think other blind players could also benefit from these guides.
 
 
-To manage expectations, please note that this is **not an official setup guide. It won't cover basic mod installations, how to use them, or standard in-game workarounds unless specifically requested or if I personally find it essential. Because of this, the content is best suited for upper-beginner, intermediate, or advanced players. That being said, I tend to write my guides in great detail, so even if you are a beginner, I'm hope you'll be able to follow along. Although, some basic details / info, I may not mention at all, please keep in mind. 
+To manage expectations, please note that this is not an official setup guide. It won't cover basic mod installations, how to use them, or standard in-game workarounds unless specifically requested or if I personally find it essential. Because of this, the content is best suited for upper-beginner, intermediate, or advanced players. That being said, I tend to write my guides in great detail, so even if you are a beginner, I'm hope you'll be able to follow along. Although, some basic details / info, I may not mention at all, please keep in mind. 
 
 > Note: All guides relate to mod installation, I'm using MO2. So I can't answer any questions about vortex., Moreover, all guides may have anime theme wording style and sub culture, I'm sorry if you don't understand or feel annoying with it.
 
@@ -25,8 +25,10 @@ You can found the official Skyrim access mod links here:
 
 ## Guides
 
-* **[Skyrim Input Layout, and the blind mage happy meal (Input Layout & how to set up hotkeys for controllers)](guides/input_layout.md)**
-* **[Finally have damage voice lines, and wow this little dragonborn complain a lot (PC Head Tracking and Voice Type SE set up + recommended voice packs)](guides/pch.md)**
+* **[Skyrim Input Layout, and the blind mage happy meal](guides/input_layout.md)**, 
+(Input Layout & how to set up hotkeys for controllers)
+* **[Finally have damage voice lines, and wow this little dragonborn complain a lot](guides/pch.md)**, 
+(PC Head Tracking and Voice Type SE set up + recommended voice packs)
 
 ---
 
