@@ -40,7 +40,7 @@ Feel free to collaborate, suggest improvements, or share your own guides to help
 
 ---
 
-## Contact me
+## 📩 Contact me
 
 To suggest, request or ask me a question, please text me through these platform: [Discord](http://discord.com/) @on1xn_th, 
 [Steam](https://steamcommunity.com/id/on1xn/)

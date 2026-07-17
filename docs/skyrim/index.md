@@ -5,7 +5,7 @@ I originally created this project as a personal notebook, but I think other blin
 
 To manage expectations, please note that this is **not an official setup guide. It won't cover basic mod installations, how to use them, or standard in-game workarounds unless specifically requested or if I personally find it essential. Because of this, the content is best suited for upper-beginner, intermediate, or advanced players. That being said, I tend to write my guides in great detail, so even if you are a beginner, I'm hope you'll be able to follow along. Although, some basic details / info, I may not mention at all, please keep in mind. 
 
-> Note: All guides relate to mod installation, I'm using MO2. So I can't answer any questions about vortex.
+> Note: All guides relate to mod installation, I'm using MO2. So I can't answer any questions about vortex., Moreover, all guides may have anime theme wording style and sub culture, I'm sorry if you don't understand or feel annoying with it.
 
 Another major objective of this project is to list of interesting and accessible mods for blind players. By using this list, you can easily pick mods that I have already personally tested, saving you from the exhausting task of browsing through all 137,000+ mods available on Nexus mod. And I'll listed non-accessible mods as well, to prevent wasting time to install them.
 
@@ -25,10 +25,8 @@ You can found the official Skyrim access mod links here:
 
 ## Guides
 
-* **[Skyrim Input Layout, and the blind mage happy meal (Steam Input Layout and how to set up hotkeys for controllers)](guides/input_layout.md)**
-* **Coming soon!** - Finally have damage voice lines, and wow this little dragonborn complain a lot (PC Head Tracking and Voice Type SE set up and recommended voice packs)
-* **Coming soon!** - Body slide or Blind slide, let's slide on the catwalk! (How to use BodySlide for blinds to install CBBE / 3BA Clothes and Armor)
-* **Coming soon!** - That time I got reincarnated as a blind anime character in the skyrim! (Custom race and follower installation guide)
+* **[Skyrim Input Layout, and the blind mage happy meal (Input Layout & how to set up hotkeys for controllers)](guides/input_layout.md)**
+* **[Finally have damage voice lines, and wow this little dragonborn complain a lot (PC Head Tracking and Voice Type SE set up + recommended voice packs)](guides/pch.md)
 
 ---
 
@@ -46,9 +44,12 @@ To make this list easier to navigate, the accessible mods are split into subcate
 
 #### Immersion
 
-
 * **[PC Head Tracking and Voice Type SE](https://www.nexusmods.com/skyrimspecialedition/mods/11993)**, 
-I highly recommend to install. This mod brings your character to life by adding attack grunts, jump sounds, and custom voice lines (ranging from 50 to 700 lines depending on the voice pack). Your character will comment on the current weather, speaking during map transitions, uttering spell names, or shouting at enemies. A little small guide and recommended voice packs is coming soon.
+I highly recommend to install. This mod brings your character to life by adding attack grunts, jump sounds, and custom voice lines (ranging from 50 to 500 lines (some voicepacks can up to 700, they said.) depending on the voice pack). Your character will comment on the current weather, speaking during map transitions, uttering spell names, or shouting at enemies. In general it's not hard to set up, if you're get used to the **Skyrim Access MCM**. Just turn on the B.Y.o. feature there and you're ready.
+If you want step by step guide + more voicepacks: **[Finally have damage voice lines, and wow this little dragonborn complain a lot!](guides/pch.md)**
+Voice packs I recommended: 
+[Valerie Voicepack](https://www.nexusmods.com/skyrimspecialedition/mods/162292), and 
+[Adam Voicepack](https://www.nexusmods.com/skyrimspecialedition/mods/148115)
 
 
 * **[PC Head Tracking - MCM - Increased Sound Files Limit](https://www.nexusmods.com/skyrimspecialedition/mods/139280)**, 
@@ -67,7 +68,7 @@ I highly recommended as a companion mod, as several PC Head Tracking voice packs
 #### Weapons, Armor, and Spells
 
 
-Most weapon, armor, and spell mods are generally accessible by nature. However, the weapon comes with clothing packs can be a bit tricky and should be checked on a case-by-case basis. In most cases, you should be perfectly safe installing them without any issues. Below is the list of mods that I am currently using:
+Most weapon, armor, and spell mods are generally accessible by nature. However, the weapon comes with clothing packs or armor made for CBBE / UMP / HIMBO (I'll create a guide about this later) can be a bit tricky and should be checked on a case-by-case. In most cases, you should be perfectly safe installing them without any issues. Below is the list of mods that I am currently using:
 
 
 * **[Katana Crafting SE](https://www.nexusmods.com/skyrimspecialedition/mods/5306)**, 
@@ -77,11 +78,11 @@ As the name suggests, this mod adds craftable Japanese Katanas to Skyrim. It is 
 #### Miscellaneous
 
 
-* **[JS Unlock Everything SE](https://www.nexusmods.com/skyrimspecialedition/mods/53159)**
+* **[JS Unlock Everything SE](https://www.nexusmods.com/skyrimspecialedition/mods/53159)**, 
 If you are tired of the lockpicking minigame, this mod is your best friend. It automatically bypasses the minigame, and you can configure it via the MCM (Mod Configuration Menu) to still award lockpicking EXP and consume lockpicks as usual.
 
 
-* **[Simple Mod Item Spawner](https://www.nexusmods.com/skyrimspecialedition/mods/64653)**
+* **[Simple Mod Item Spawner](https://www.nexusmods.com/skyrimspecialedition/mods/64653)**, 
 Highly recommended if you install custom weapons, armor, or clothing mods, as many of them do not include crafting recipes. While it is primarily used for modded items, you can always use standard console commands if you want to spawn vanilla potions or gear.
 
 ---
