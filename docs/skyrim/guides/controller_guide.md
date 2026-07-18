@@ -1,5 +1,7 @@
 # Even A Blind Can Control The Skyrim, Controller Guide by ON1XN
 
+* It's very long guide, please be patient to read *
+
 If you're playing the Skyrim Access mod with a controller, you've probably encountered situations where you have to move your hands to your lovely keyboard to perform certain actions that the controller can't handle. For example, pressing "B" to check enemy health, "Shift + O" to set a navigation object, and other actions. In my opinion, it isn't a smooth experience.
 
 Unfortunately, many gamepad mods on Nexus aren't accessible for Skyrim Access. That's why I decided to create this Steam Input layout to suit my own needs. Who knows? Someone else might benefit from this layout too, enjoying their controller experience without a complex setup. (This may complex any way. But easier than manual set up or mess around with mods like I did.)
@@ -8,7 +10,7 @@ As far as I'm concerned, with this layout, you rarely to touch your pouting keyb
 
 Yes, I have mapped every single Skyrim Access keybind that used to be exclusive to the keyboard into this layout. As long as they don't change the default keybinds in the future, everything should work perfectly.
 
-However, there are a few situations the controller doesn't go as expect for my case, and probably yours as well. Please keep this in mind, and roughly 95% in the game can be done with my input layout.
+However, there are a few situations the controller doesn't work as expect for my case, and probably yours as well. Please keep this in mind, and roughly 99% in the game can be done with my input layout.
 
 Plus, you get a total of 18 extra hotkeys to create crazy combos! That should be more than enough for most players, I suppose. At least, it's more than enough for me.
 
@@ -16,9 +18,9 @@ Plus, you get a total of 18 extra hotkeys to create crazy combos! That should be
 
 > **Note 2:** I created this layout based on the Logitech F310, which uses XInput, but its shape is similar to a PS3 controller. Therefore, the key combinations and user experience are optimized for PlayStation controllers. While the layout works regardless of the controller's shape or brand, Xbox controller users might find some combinations tricky to press, which could lower their user experience.
 
-> * **Note 3:** As mentioned, this layout is not specific to XInput (e.g., Xbox or my Logitech). If you are using a PS3, PS4, PS5, Switch Joy-Con, 8BitDo Pro, Razer, or Steam Controller, everything should work as expected since all of them are supported by Steam.
+> **Note 3:** As mentioned, this layout is not specific to XInput (e.g., Xbox or my Logitech). If you are using a PS3, PS4, PS5, Switch Joy-Con, Razer, or Steam Controller, everything should work as expected since all of them are supported by Steam.
 
-* **Note 4:** This includes handheld devices like the Steam Deck and Asus ROG Ally. I can't guarantee it will work, but in theory, as long as the device has a console-shaped controller and you play the game on Steam, you should be able to use it without any problems.
+> **Note 4:** This includes handheld devices like the Steam Deck and Asus ROG Ally. I can't guarantee it will work, but in theory, as long as the device has a console-shaped controller and you play the game on Steam, you should be able to use it without any problems.
 
 ---
 
