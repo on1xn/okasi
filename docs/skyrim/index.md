@@ -44,7 +44,7 @@ To make this list easier to navigate, the accessible mods are split into subcate
 
 * **[PC Head Tracking and Voice Type SE](https://www.nexusmods.com/skyrimspecialedition/mods/11993)**, 
 I highly recommend to install. This mod brings your character to life by adding attack grunts, jump sounds, and custom voice lines (ranging from 50 to 500 lines (some voicepacks can up to 700, they said.) depending on the voice pack). Your character will comment on the current weather, speaking during map transitions, uttering spell names, or shouting at enemies. In general it's not hard to set up, if you're get used to the **Skyrim Access MCM**. Just turn on the B.Y.o. feature there and you're ready.
-If you want step by step guide + more voicepacks: **[Finally have damage voice lines, and wow this little dragonborn complain a lot!](guides/pch.md)**
+If you want step by step guide + more voicepacks: **[Finally have damage voice lines, wow this little dragonborn complain a lot!](guides/pch_guide.md)**
 Voice packs I recommended: 
 [Valerie Voicepack](https://www.nexusmods.com/skyrimspecialedition/mods/162292), and 
 [Adam Voicepack](https://www.nexusmods.com/skyrimspecialedition/mods/148115)
