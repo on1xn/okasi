@@ -14,7 +14,11 @@ Plus, you get a total of 18 extra hotkeys to create crazy combos! That should be
 
 > **Note 1:** This layout is not just for a blind mage, you can assign these extra hotkeys to potions, equipment, or any items the game allows you to add to the favorite menu.
 
-> **Note 2:** I created this layout using my Xbox controller. If you're using a PS4 or PS5 controller, I assume everything should work as expected too, since Steam supports them. The only difference here is that I'll be using Xbox notation for each keybind.
+> **Note 2:** I created this layout based on the Logitech F310, which uses XInput, but its shape is similar to a PS3 controller. Therefore, the key combinations and user experience are optimized for PlayStation controllers. While the layout works regardless of the controller's shape or brand, Xbox controller users might find some combinations tricky to press, which could lower their user experience.
+
+> * **Note 3:** As mentioned, this layout is not specific to XInput (e.g., Xbox or my Logitech). If you are using a PS3, PS4, PS5, Switch Joy-Con, 8BitDo Pro, Razer, or Steam Controller, everything should work as expected since all of them are supported by Steam.
+
+* **Note 4:** This includes handheld devices like the Steam Deck and Asus ROG Ally. I can't guarantee it will work, but in theory, as long as the device has a console-shaped controller and you play the game on Steam, you should be able to use it without any problems.
 
 ---
 
@@ -50,10 +54,10 @@ And you may need to press NVDA + space to out from their browse mode to move aro
 
 4. Click the link under the **"Current Button Layout"** heading. It should currently be something like the official Skyrim layout from Valve, but the exact name doesn't matter. In this area, there should be a link showing the layout name, along with options to view and edit it. Please click on the layout name itself.
 
-5. On this page, look for the search tab and type **"Blind Skyrim"** into the search box. You should see *"The Elder Scrolls V: Skyrim Special Edition: Blind Skyrim Gamepad V. 1 ON1XN"*. Click on it, apply layout, and done.
+5. On this page, look for the search tab and type **"Blind Skyrim"** into the search box. You should see *"The Elder Scrolls V: Skyrim Special Edition: Blind Skyrim V. 1 ON1XN"* on the searched result, Click on it, apply layout, and done.
 
 
-Now, under "Current Button Layout," it should display the layout name as "Blind Skyrim Gamepad V. 1," meaning you're officially done. If it doesn't show up, click the link again and try looking under the "Your layouts" tab. However, I don't think you'll need to do that.
+Now, under "Current Button Layout," it should display the layout name as "Blind Skyrim V. 1," meaning you're officially done. If it doesn't show up, click the link again and try looking under the "Your layouts" tab. However, I don't think you'll need to do that.
 
 ---
 
@@ -79,11 +83,15 @@ I highly recommend keeping the official mod's GitLab or manual open to read alon
 * **Right + Start** = List all active effects.
 * **LS click + Start** = Teleport back to the nearest walkable ground.
 * **RS click + Back** = Check the direction you're facing (similar to pressing N on the keyboard). I put it here because I don't use it very often either, but it might be useful in certain situations.
+* **Start double tap** = Simulates the Enter key on a keyboard. Since the map menu sometimes doesn't allow you to use the A button to fast travel when using a controller, you can double-tap the Start button to solve this.
+* **LB double tap** = Simulates the P key on a keyboard. Again, using a controller in the map menu can be a bit weird and might prevent you from placing map markers. Please double-tap LB to place a marker. (This won't conflict with Skyrim Access modifier key.)
 
 
 Actually, I could have mapped some keybinds to RB, LT, and RT to make them easier and more intuitive, but those are attack keys. During my testing, there were minor situations where I accidentally used a weapon, spell, or shout. Yes, and then the guards or nearby NPCs turned around to bite me, or I accidentally swung my Katana at them! Therefore, I decided to block those attack keys. Although those accidents didn't happen often, it's definitely better to avoid them altogether.
 
 And I didn't include the quest-guide authoring feature here, because it doesn't affect my gameplay.
+
+A little note here, if you can use map menu normally, you no need to use start and LB double tap.
 
 ---
 
@@ -164,7 +172,7 @@ These are minor issues, but I wanted to mention it here in case you encounter it
 * If your Left or Right D-pad buttons stop functioning properly, please open your favorite menu and make sure you haven't accidentally assigned a hotkey to them. (Holding left / right D pad here will create a hotkey to the controller, so be careful)
 If you did, you can easily fix this by rebuilding your hotkeys following the instructions in the section above. Setting up the hotkeys again will overwrite and delete the old, accidental mappings, restoring your Left/Right D-pad buttons to their intended behavior in this layout.
 
-* Sometimes A button on controller does not work on the map menu to fast travel, please reload your game save or reopen the game to solve this. This is not a bug from my input layout.
+* Sometimes, the A button on a controller does not work in the map menu for fast traveling or placing markers. You can use the keybinds mentioned above, or try reloading your save file or restarting the game to fix this. (At times, these steps might not help at all, or the button might suddenly start working as expected again for no reason, so use my extra keybinds above can help you for sure.) Please note that this is a bug within the game itself, one of my 100 mods or anything I don't know, it's not an issue with my input layout.
 
 ---
 

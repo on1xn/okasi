@@ -10,7 +10,7 @@ For modlist, my list includes many things that sighted players regularly install
 
 Thanks to check this project out, hope you can enjoy!
 
-Buy this game on Steam: [The Elder Scrolls V: Skyrim Special Edition / Anniversary Edition](https://store.steampowered.com/app/489830/The\_Elder\_Scrolls\_V\_Skyrim\_Special\_Edition/)
+Buy the game on Steam: [The Elder Scrolls V: Skyrim Special Edition / Anniversary Edition](https://store.steampowered.com/app/489830/The\_Elder\_Scrolls\_V\_Skyrim\_Special\_Edition/)
 
 Official Skyrim access mod: 
 [Skyrim Access - Nexus mod](https://www.nexusmods.com/skyrimspecialedition/mods/181131), 
@@ -44,7 +44,9 @@ To make this list easier to navigate, the accessible mods are split into subcate
 
 * **[PC Head Tracking and Voice Type SE](https://www.nexusmods.com/skyrimspecialedition/mods/11993)**, 
 I highly recommend to install. This mod brings your character to life by adding attack grunts, jump sounds, and custom voice lines (ranging from 50 to 500 lines (some voicepacks can up to 700, they said.) depending on the voice pack). Your character will comment on the current weather, speaking during map transitions, uttering spell names, or shouting at enemies. In general it's not hard to set up, if you're get used to the **Skyrim Access MCM**. Just turn on the B.Y.o. feature there and you're ready.
+
 If you want step by step guide + more voicepacks: **[Finally have damage voice lines, wow this little dragonborn complain a lot!](guides/pch_guide.md)**
+
 Voice packs I recommended: 
 [Valerie Voicepack](https://www.nexusmods.com/skyrimspecialedition/mods/162292), and 
 [Adam Voicepack](https://www.nexusmods.com/skyrimspecialedition/mods/148115)
@@ -52,7 +54,6 @@ Voice packs I recommended:
 
 * **[Smart Talk](https://www.nexusmods.com/skyrimspecialedition/mods/161500)**, 
 This mod enhances the flow of in-game dialogues. It introduces natural, realistic pauses between dialogue lines so NPCs don't talk over each other, and it reorders your conversation choices. With this mod, the dialogue options most relevant to your current quest are automatically pushed to the top of the list. If you install the optional files, you can also fully customize these settings via the MCM. I highly recommended as a companion mod, as several PC Head Tracking voice packs actually require or recommend having Smart Talk installed.
-
 
 #### Weapons & Spells
 
@@ -78,7 +79,7 @@ Highly recommended if you install custom weapons, armor, or clothing mods, as ma
 
 ### Non-Accessible Mods
 
-These are mods that are either highly incompatible with Skyrim Access or outright impossible to navigate as a blind player (I may split them to subcategories in the future):
+These are mods that are either highly incompatible with Skyrim Access or outright impossible to navigate as a blind player (I may split them to subcategories in the future), and of course, if you want to try I don't stop either, because no one can stop me to install them as well.
 
 * **Gamepad Utility Mods (e.g., Wheeler - Quick Action Wheel, Gamepad++, Serio's Cycle Hotkeys, and iEquip)**
 These mods are completely inaccessible or break Skyrim Access's input translation. It is much better to avoid them, and use my custom Steam Input layout instead.
@@ -86,11 +87,13 @@ These mods are completely inaccessible or break Skyrim Access's input translatio
 
 * **Dragonborn Voice Over 2**, 
 Unfortunately, in the current state of Skyrim Access, the SKSE Menu Framework is not yet supported. Because this mod relies heavily on that framework to function and configure its settings, it is currently completely inaccessible for blind players. I really hope the Skyrim Access developers will implement compatibility for the SKSE Menu Framework in the future so we can finally experience this amazing mod. 
+
 What this mod does? This is a much larger and more ambitious project than PC Head Tracking. While many sighted players use both mods together to maximize their character's voice capabilities, DBVO2 for short, goes a step further by giving your protagonist a fully voiced dialogue system. Instead of your character being a silent hero during conversations, this mod generates high-quality voice lines for every single dialogue option you select, making the storytelling experience incredibly immersive.
 
 
 * **ENBs and Community Shaders**, 
 Not only those are graphical mod that most blind players doesn't get any benefit from them and being heavy on your GPU/CPU, they are incredibly tedious to set up. Community Shaders are slightly easier to manage than ENB, but they can still cause silent errors or shader compilation issues that you won't easily notice without a sighted friend looking at your screen. 
+
 Moreover, both ENBs and Community Shaders use the **End** key by default to open their in-game GUI, which directly conflicts with Skyrim Access keybinds. Many of them do not offer an easy way to rebind this key. (I might wrestle with this again in the future just so I can share pretty screenshots with my sighted friends, but that's a project for another day)
 
 ---
