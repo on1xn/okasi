@@ -21,13 +21,14 @@ First, let's download the necessary components. Here are the mods you need to in
 
 Once installed, it's time to set things up in-game. (If you're wondering where the voice packs are, they are in the next section. I wanted to explain how to use PCH in general first!)
 
-* 1. Open your game, load your save (or start a new one), open the pause menu, and go to **Mod Configuration**. You should see "PC Head Tracking" appear in your MCM.
-* 2. Click on it, then press the Right Arrow or Right D-pad to enter the settings page. From there, use Up and Down to browse the options.
-* 3. Move down once to find **"ON/OFF: off"** and toggle it **ON**. Otherwise, the mod won't work. Why am I stating the obvious? Just to annoy someone, of course...
+1. Open your game, load your save (or start a new one), open the pause menu, and go to **Mod Configuration**. You should see "PC Head Tracking" appear in your MCM.
 
-> **Note:** If you don't plan on using custom voice packs downloaded from the internet, you are actually completely done here! It's that simple. If you *do* want to use custom voice packs, keep reading.
+2. Click on it, then press the Right Arrow or Right D-pad to enter the settings page. From there, use Up and Down to browse the options.
 
-* 4. Press Right again to go to the **Preferences** tab, then scroll down until you find **"B.Y.O. Voice Type"** (Bring Your Own Voice Type). Move down one more time to find its toggle and switch it **ON**. Now you're fully set up!
+3. Move down once to find **"ON/OFF: off"** and toggle it **ON**. Otherwise, the mod won't work. Why am I stating the obvious? Just to annoy someone, of course...
+**Note:** If you don't plan on using custom voice packs downloaded from the internet, you are actually completely done here! It's that simple. If you *do* want to use custom voice packs, keep reading.
+
+4. Press Right again to go to the **Preferences** tab, then scroll down until you find **"B.Y.O. Voice Type"** (Bring Your Own Voice Type). Move down one more time to find its toggle and switch it **ON**. Now you're fully set up!
 
 ### Useful Options to Mess Around With
 
