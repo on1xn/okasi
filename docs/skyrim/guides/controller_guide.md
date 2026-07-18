@@ -1,6 +1,6 @@
 # Even A Blind Can Control The Skyrim, Controller Guide by ON1XN
 
-> It's very long guide, please be patient to read 
+> It's very long guide, please be patient to read. And this is not a replacement or overrid the existing controller support from the Skyrim Access mod, treat it an extension that enhance your gameplay.
 
 If you're playing the Skyrim Access mod with a controller, you've probably encountered situations where you have to move your hands to your lovely keyboard to perform certain actions that the controller can't handle. For example, pressing "B" to check enemy health, "Shift + O" to set a navigation object, and other actions. In my opinion, it isn't a smooth experience.
 
@@ -86,14 +86,10 @@ I highly recommend keeping the official mod's GitLab or manual open to read alon
 * **LS click + Start** = Teleport back to the nearest walkable ground.
 * **RS click + Back** = Check the direction you're facing (similar to pressing N on the keyboard). I put it here because I don't use it very often either, but it might be useful in certain situations.
 * **Start double tap** = Simulates the Enter key on a keyboard. Since the map menu sometimes doesn't allow you to use the A button to fast travel when using a controller, you can double-tap the Start button to solve this.
-* **LB double tap** = Simulates the P key on a keyboard. Again, using a controller in the map menu can be a bit weird and might prevent you from placing map markers. Please double-tap LB to place a marker. (This won't conflict with Skyrim Access modifier key.)
-
 
 Actually, I could have mapped some keybinds to RB, LT, and RT to make them easier and more intuitive, but those are attack keys. During my testing, there were minor situations where I accidentally used a weapon, spell, or shout. Yes, and then the guards or nearby NPCs turned around to bite me, or I accidentally swung my Katana at them! Therefore, I decided to block those attack keys. Although those accidents didn't happen often, it's definitely better to avoid them altogether.
 
 And I didn't include the quest-guide authoring feature here, because it doesn't affect my gameplay.
-
-A little note here, if you can use map menu normally, you no need to use start and LB double tap.
 
 ---
 
