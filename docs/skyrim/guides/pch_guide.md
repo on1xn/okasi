@@ -21,19 +21,19 @@ First, let's download the necessary components. Here are the mods you need to in
 
 Once installed, it's time to set things up in-game. (If you're wondering where the voice packs are, they are in the next section. I wanted to explain how to use PCH in general first!)
 
-1. Open your game, load your save (or start a new one), open the pause menu, and go to **Mod Configuration**. You should see "PC Head Tracking" appear in your MCM.
-2. Click on it, then press the Right Arrow or Right D-pad to enter the settings page. From there, use Up and Down to browse the options.
-3. Move down once to find **"ON/OFF: off"** and toggle it **ON**. Otherwise, the mod won't work. Why am I stating the obvious? Just to annoy someone, of course...
+* 1. Open your game, load your save (or start a new one), open the pause menu, and go to **Mod Configuration**. You should see "PC Head Tracking" appear in your MCM.
+* 2. Click on it, then press the Right Arrow or Right D-pad to enter the settings page. From there, use Up and Down to browse the options.
+* 3. Move down once to find **"ON/OFF: off"** and toggle it **ON**. Otherwise, the mod won't work. Why am I stating the obvious? Just to annoy someone, of course...
 
 > **Note:** If you don't plan on using custom voice packs downloaded from the internet, you are actually completely done here! It's that simple. If you *do* want to use custom voice packs, keep reading.
 
-4. Press Right again to go to the **Preferences** tab, then scroll down until you find **"B.Y.O. Voice Type"** (Bring Your Own Voice Type). Move down one more time to find its toggle and switch it **ON**. Now you're fully set up!
+* 4. Press Right again to go to the **Preferences** tab, then scroll down until you find **"B.Y.O. Voice Type"** (Bring Your Own Voice Type). Move down one more time to find its toggle and switch it **ON**. Now you're fully set up!
 
 ### Useful Options to Mess Around With
 
 Here are a few options worth exploring depending on your personal taste:
 
-* **Facial Expression:** While this is mainly for visual purposes, I feel it also influences how voice lines trigger when looking at NPCs, so I recommend turning it on. Right below this, you can choose specific expressions. The mod names them quite clearly. You can even set it to "Angry" when meeting your in-game lover—because let's face it, everyone gets a little annoyed when their partner asks them to do something. That's exactly what lover is for!
+* **Facial Expression:** While this is mainly for visual purposes, I feel it also influences how voice lines trigger when looking at NPCs, so I recommend turning it on. Right below this, you can choose specific expressions. The mod names them quite clearly. You can even set it to "Angry" when meeting your in-game lover. because let's face it, everyone gets a little annoyed when their partner asks them to do something. That's exactly what lover is for!
   > ⚠️ **Quick Tip:** For options that use a combo box style, you need to press Enter once to select your option, and then back out of it for the change to save properly.
 * **Voice Type:** If you aren't using custom downloaded voice packs, this option lets you choose from the pre-installed packs created by the mod author. There are both male and female options. Some use vanilla voices, and they are decent. However, I found a minor bug where a few voices share the exact same grunt sounds, which can sound a bit ugly, lol.
 * **Greeting:** In this section, you can bind a key to greet people like a friendly childhood friend in an anime, or act like an ice queen who says goodbye to every speakable grass she encounters. The choice is yours! There is also an option to play random voices, adding a bit of fun interaction to the world.

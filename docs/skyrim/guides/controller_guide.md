@@ -1,6 +1,6 @@
 # Even A Blind Can Control The Skyrim, Controller Guide by ON1XN
 
-* It's very long guide, please be patient to read *
+> It's very long guide, please be patient to read 
 
 If you're playing the Skyrim Access mod with a controller, you've probably encountered situations where you have to move your hands to your lovely keyboard to perform certain actions that the controller can't handle. For example, pressing "B" to check enemy health, "Shift + O" to set a navigation object, and other actions. In my opinion, it isn't a smooth experience.
 
