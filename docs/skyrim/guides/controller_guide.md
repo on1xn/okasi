@@ -1,18 +1,15 @@
 # Even A Blind Can Control The Skyrim, Controller Guide by ON1XN
 
-> It's very long guide, please be patient to read. And this is not a replacement or overrid the existing controller support from the Skyrim Access mod, treat it an extension that enhance your gameplay.
+> ⚠️ **Very Important Note:** To avoid any misunderstanding, you do not need to follow or download anything in this guide if you only want to play the game with a controller. The skyrim access mod already provides full controller support, with only a few minor limitations that will be improved in future updates I believe. This guide focuses on the additions I've made to extend its functionality, particularly for mage playthroughs. And to help my self remember what I did with this. 
+If you're only here for the controller keybinds from default game's keybinds and Skyrim Access, simply jump to the Keybinds section. Once you've got what you need, you can close this page without reading the rest.
 
 If you're playing the Skyrim Access mod with a controller, you've probably encountered situations where you have to move your hands to your lovely keyboard to perform certain actions that the controller can't handle. For example, pressing "B" to check enemy health, "Shift + O" to set a navigation object, and other actions. In my opinion, it isn't a smooth experience.
 
-Unfortunately, many gamepad mods on Nexus aren't accessible for Skyrim Access. That's why I decided to create this Steam Input layout to suit my own needs. Who knows? Someone else might benefit from this layout too, enjoying their controller experience without a complex setup. (This may complex any way. But easier than manual set up or mess around with mods like I did.)
+Although these keybinds are optional and you can play the game without ever using them, I found myself having to move my hands to access these features whenever I needed them, even if it was only on rare occasions. So, I decided to assign these extra keybinds to better suit my personal preferences.
 
-As far as I'm concerned, with this layout, you rarely to touch your pouting keyboard. (Since you aren't touching your keyboard, she's going to pout, so don't forget to take your keyboard out on a date after playing Skyrim!) 
+Moreover, I'm playing as a mage, and switching spells are tedious, since controller can't access 8 hotkeys in the same way as keyboard does. Unfortunately, many gamepad mods on Nexus aren't accessible for Skyrim Access. That's why I decided to create this Steam Input layout to suit my own needs. Who knows? Someone else might benefit from this layout too, enjoying their controller experience without a complex setup. (This may complex any way. But easier than manual set up or mess around with mods like I did.)
 
-Yes, I have mapped every single Skyrim Access keybind that used to be exclusive to the keyboard into this layout. As long as they don't change the default keybinds in the future, everything should work perfectly.
-
-However, there are a few situations the controller doesn't work as expect for my case, and probably yours as well. Please keep this in mind, and roughly 99% in the game can be done with my input layout.
-
-Plus, you get a total of 18 extra hotkeys to create crazy combos! That should be more than enough for most players, I suppose. At least, it's more than enough for me.
+Now with my guide, you get a total of 18 extra hotkeys to create crazy combos! That should be more than enough for most players, I suppose. At least, it's more than enough for me.
 
 > **Note 1:** This layout is not just for a blind mage, you can assign these extra hotkeys to potions, equipment, or any items the game allows you to add to the favorite menu.
 
@@ -63,17 +60,50 @@ Now, under "Current Button Layout," it should display the layout name as "Blind 
 
 ---
 
-## Extra Keybinds for Skyrim Access!
+## All Keybinds for Controller!
 
-Some of these explanations are taken from the official mod's manual. I assume you're already familiar with the default keybinds for Skyrim Access. Since I only added missing options from the original mod, I won't explain everything here, only the keybinds I created. Again, besides the keybinds listed below, the rest remain completely default.
-
-I highly recommend keeping the official mod's GitLab or manual open to read along for the full list of keybinds you need to know.
-
-[Here's the official Skyrim Access GitLab to read along](https://gitlab.com/SkyrimAccessibilityProject/SkyrimAcces)
+Some of these explanations are taken from the official mod's manual. I assume you're already familiar with the default keybinds for Skyrim Access. Since I only added missing options from the original mod, I won't explain everything here, only the keybinds I created. Again, besides the keybinds listed below, the rest remain completely default. But for any reasons you don't want to open the official manual from skyrim access and the game it self, I'll try to write here with default game keybinds.
 
 > **A Big Warning:** You should NOT remap any default keys in the MCM (Mod Configuration Menu) of the Skyrim Access mod. Otherwise, it will break and won't work properly. Moreover, if you do, I'll bite you.
 
-### Keybinds
+### In Game Keybinds
+
+* **D Pad** = Menu navigation.
+* **D pad up / download** = Open favorite menu in game world.
+* **D pad left / right** = Hotkeys for favorite items / spells / others.
+* **A** = Activate / Interact / Confirm.
+* **B** = Character menu (spells, inventory, maps, and skills)
+* **X** = Ready / Sheathe Spell or Weapon (in menus: Drop/Action depending on context)
+* **Y** = Jump.
+* **LB** = Sprint. (Was replaced by Skyrim Access modifier key)
+* **RB** = Shout.
+* **LT** = Left-hand attack / Block / Cast left-hand spell.
+* **RT** = Right-hand attack / Cast right-hand spell.
+* **Left stick** = Move / Run.
+* **Right stick** = Camera move.
+* **Back** = Wait on open area and switch between batter menu and your inventory.
+* **Start** = Open game menu and journal.
+
+I think this is what you need to know so far for default game's keybinds.
+
+### Default Skyrim Access Keybinds
+
+* **LB + D-pad Down / D-pad Up** = next or previous scanner object.
+* **LB + D-pad Left** = announce the current object.
+* **LB + right stick left or right** = previous or next category.
+* **LB + right stick up or down** = cycle the subcategory (or the map filters when the map is open).
+* **LB + X** = autowalk to the current object, or fast travel on the map.
+* **LB + A** = remote-activate the current object.
+* **LB + B** = teleport to the current object.
+* **LB + Y** = health, magicka and stamina.
+* **LB + D-pad Right** = set the map reference point.
+* **LB + LS click** = toggle sneak.
+* **LB + RS click** = toggle first or third person view.
+* **RS click (without LB)** = lock the nearest enemy.
+
+As you see, it cover nearly everything you need, only lag some keybinds exclusive on keyboard like B to check enemy health, shift + O to set sound becon and a few options for example.
+
+### Extra Keybinds I made
 
 * **Right + A** = Report of the selected object.
 * **Right + B** = Open journal.

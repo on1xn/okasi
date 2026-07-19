@@ -1,21 +1,19 @@
 # Skyrim Guides & Modlist for the Blind by ON1XN
 
-Welcome to my Skyrim archive! I originally created this project as a personal notebook to log my mod setups, configuration tweaks, installation troubleshooting, and general game knowledge. While a full backup is great, having a written list is much better for my poor memory. Since these notes help me so much, I figured other blind players might find them useful too.
+Welcome to my Skyrim archive! I originally created this project as a personal notebook to log my mod setups, configuration tweaks, installation troubleshooting, and general game knowledge, including the link those mods I downloaded outside nexus. While a full backup is great, having a written list is much better for my poor memory. Since these notes help me so much, I figured other blind players might find them useful too.
 
 > **Warning:** Since this is a highly personal project, some guides and mods here might be completely useless to your specific needs. The content also includes heavy anime themes, subculture slang, and plenty of stupid jokes. If that makes you uncomfortable, feel free to kick me away!
 
-By using these guides and modlists, you can easily follow along to install, configure, or troubleshoot your Skyrim setup. A major advantage is that you can pick from mods I have already personally tested, saving you from the exhausting task of browsing through over 137,000 mods on Nexus. I have also listed non-accessible mods to prevent you from wasting time installing things that won't work.
-
-For modlist, my list includes many things that sighted players regularly install, such as quest expanders, immersion mods, body physics, graphical mods, and clothing. These are things that a typical blind player might not install at all (but I did anyway!). This list will expand slowly over time, as I can't install everything at once, and I want to fully experience the vanilla game before adding mods that extend the main storyline, events, or quests.
+For modlist, my list includes many things that sighted players regularly install and mainly anime themes, such as quest expanders, immersion mods, body physics, graphical mods, and clothing. These are things that a typical blind player might not install at all (but I did anyway). This list will expand slowly over time, as I can't install everything at once, and I want to fully experience the vanilla game before adding mods that extend the main storyline, events, or quests.
 
 Thanks to check this project out, hope you can enjoy!
 
 Buy the game on Steam: [The Elder Scrolls V: Skyrim Special Edition / Anniversary Edition](https://store.steampowered.com/app/489830/The\_Elder\_Scrolls\_V\_Skyrim\_Special\_Edition/)
 
 Official Skyrim access mod: 
-[Skyrim Access - Nexus mod](https://www.nexusmods.com/skyrimspecialedition/mods/181131), 
-[Skyrim Access - GitLab](https://gitlab.com/SkyrimAccessibilityProject/SkyrimAccessMod), and
-[Skyrim Access - Discord](https://discord.gg/g56S8qD2z)
+[Nexus mod](https://www.nexusmods.com/skyrimspecialedition/mods/181131), 
+[ GitLab](https://gitlab.com/SkyrimAccessibilityProject/SkyrimAccessMod), and
+[Discord](https://discord.gg/g56S8qD2z)
 
 ---
 
@@ -32,9 +30,9 @@ Official Skyrim access mod:
 
 In this section, I have included both **accessible** and **non-accessible** mods. Some popular mods in the Skyrim community are completely inaccessible for blind players. Since they are so famous, I've tried a bunch of them myself.
 
-Below, you'll find the mod names, Nexus download links, and brief descriptions of what they do. If I have written a dedicated guide for a specific mod, I will link that as well.
+Below are mod names, Nexus download links or external links, and brief descriptions of what they do. If I have written a dedicated guide for a specific mod, I will link that as well.
 
-To make this list easier to navigate, the accessible mods are split into subcategories: **Immersion**, **Weapons/Armor/Spells/Clothing**, and **Miscellaneous**, for example. I have also included a separate section for fashion, body physics, and visual mods—things that don't affect gameplay but are fun for customization. (Yes, headache too!)
+To make this list easier to navigate, the accessible mods are split into subcategories: **Immersion**, **Weapons/Armor/Spells/Clothing**, and **Miscellaneous**, for example. I have also included a separate section for fashion, body physics, and visual mods, things that don't affect gameplay but are fun for customization. (Yes, headache too!)
 
 ---
 
@@ -43,7 +41,7 @@ To make this list easier to navigate, the accessible mods are split into subcate
 #### Immersion
 
 * **[AI Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/21654)**, 
-This mod makes vanilla NPCs act much more realistically by giving them proper daily schedules. Instead of wandering aimlessly, they now go to work, head out to eat, and go to sleep at midnight. It benefits blind players because it makes the towns feel like living, breathing places. It also makes playing as a thief a bit easier, because you to only worry about dodging the patrolling guards.
+This mod makes vanilla NPCs act much more realistically by giving them proper daily schedules. Instead of wandering aimlessly, they now go to work, head out to eat, and go to sleep at midnight. It benefits blind players because it makes the towns feel like living, breathing places. It also makes playing as a thief a bit easier, because you to only worry about dodging the patrolling guards in the night.
 
 
 * **[PC Head Tracking and Voice Type SE](https://www.nexusmods.com/skyrimspecialedition/mods/11993)**, 
@@ -69,6 +67,15 @@ As the name suggests, this mod adds craftable Japanese Katanas to Skyrim. It is 
 
 * **[Phoenix Katanas](https://www.nexusmods.com/skyrimspecialedition/mods/164939)**, 
 Here is another Japanese katana mod. The highlights of this one are the visual effects when swinging. You can choose between a fire or ice katana, each with its own unique visual effect. As for the gameplay impact, I'm not sure if it adds any stats or buffs, since the mod description doesn't mention much other than it being upgradable just like other vanilla weapons. So, if you're looking for another two-handed katana (technically an Odachi) besides the Katana Crafting SE, this worth a try.
+
+
+* **[Staves Pack - Frieren Beyond Journey's End](https://www.nexusmods.com/skyrimspecialedition/mods/151667)**, 
+Yes, it's staves pack from the anime frieren. There are hundred of staves to choose, please check the mod description.
+
+
+* **[Megumin Weapon and Spell](https://www.nexusmods.com/skyrimspecialedition/mods/34958)**, 
+Exploooosion!!! The ultimate staff of Megumin! Casting this staff plays the full iconic chant, followed by the legendary "Explosion!" just like in the anime.
+They recreate Megumin's signature magic, the staff uses all of its charges in a single cast. Recharge it before using it again or challenge yourself to one Explosion per day, just like Megumin.
 
 #### Miscellaneous
 
