@@ -22,7 +22,7 @@ If you add another "i" to the end to make it **"Okashii"** (with "si" sharing th
 While the current scope focuses on my personal gaming hobbies, I welcome anyone who wants to collaborate. Feel free to suggest improvements or share your own guides and modlist.
 
 * 📝 [Read the Contribution Guidelines here](contribution.md)
-* 💬 **Contact Me:** Reach out via **Discord (@on1xn_th)** or connect on **[Steam](https://steamcommunity.com/id/on1xn/)**.
+* 💬 **Contact Me:** Reach out via **Discord (@on1xn_th)**
 
 ---
 

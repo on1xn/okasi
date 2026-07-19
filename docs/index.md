@@ -20,5 +20,6 @@ And everything is written in a format that anyone can easily follow. (Many guide
 While the current scope focuses on my personal gaming hobbies, I welcome anyone who wants to collaborate. Feel free to suggest improvements or share your own guides and modlist.
 
 * 📦 **[Okasi Project Repository](https://github.com/on1xn/okasi)**
-* 💬 **Contact Me:** Reach out via **Discord (@on1xn_th)** or connect on **[Steam](https://steamcommunity.com/id/on1xn/)**.
+* 💬 **Contact Me:** Reach out via **Discord (@on1xn_th)**
 
+---

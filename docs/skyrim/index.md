@@ -102,11 +102,6 @@ Moreover, both ENBs and Community Shaders use the **End** key by default to open
 
 ---
 
-## 🤝 Contributions & Contact
-
-While the current scope focuses on my personal gaming hobbies, I welcome anyone who wants to collaborate. Feel free to suggest improvements or share your own guides and modlist.
-
-* 📦 **[Okasi Project Repository](https://github.com/on1xn/okasi)**
-* 💬 **Contact Me:** Reach out via **Discord (@on1xn_th)** or connect on **[Steam](https://steamcommunity.com/id/on1xn/)**.
+## 📦 **[Okasi Project Repository](https://github.com/on1xn/okasi)**
 
 ---
