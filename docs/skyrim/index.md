@@ -82,10 +82,11 @@ If you're playing survival mode, I highly recommend this. Now food provides long
 
 #### Followers (Your companion)
 
-This section is for all mods relate to follower system, including custom followers I tried. And please do not install Awesome Follower Tweak, Extensible Follower Framework, and Nether's Follower Framework. They are patially accessible for some features not all, and some mods are totally imaccessible at all. Please use the list below instead to recreate features they offer.
+This section is for all mods relate to follower system, including custom followers I tried. And please do not install Awesome Follower Tweak and Nether's Follower Framework. They are patially accessible for some features, and some mods are totally imaccessible at all. Please use the list below instead to recreate features they offer.
 
 * **[Simple Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/174017)**, 
 This mod allows you to have up to 8 vanilla followers and they all are essential followers (it means they won't die, yay!) and I'll update if I found a slightly more advance features.
+
 
 * **[Immortal-Essential Followers](https://www.nexusmods.com/skyrimspecialedition/mods/6278)**, 
 If you want to date, ah no. If you want only one follower at a time, just don't want he / she die by your cruel mission or ultimate spells, you can install this one instead. And please do not install this one with the one above, it will break your game.
@@ -96,11 +97,15 @@ Now you can set your follower to use specific weapon and force them to cosplay f
 
 
 * **[Followers Ride Horses](https://www.nexusmods.com/skyrimspecialedition/mods/139368)**, 
-Even your eyes can't see, but don't let your heart blind. Now time to give your follower a horse, because the vanilla game they will run on foot no matter what. Although Skyrim Access with horse is something clumcy, I don't see it's a bad thing to give your follower a horse.
+Even your eyes can't see, but don't let your heart blind. Now time to give your follower a horse, because the vanilla game they will run on foot no matter what while you can ride a horse, so what's a poor follower. Although Skyrim Access with horse is something clumcy, I don't see it's a bad thing to give them.
 
 
 * **[Swiftly Order Squad](https://www.nexusmods.com/skyrimspecialedition/mods/63259)**, 
 This mod will help you command all followers at once by pressing the hotkey you setted in the MCM. The custom interface they made isn't accessible at all, good they create a hotkey to all of their functions.
+
+
+* **[EFF - Extensible Follower Framework]()**, 
+This is only a bonus, and you need to accept its limitation, otherwise I recommend to use a combo I listed above. if you are OK with its limitation as you can't customise your follower equipment, you can access the feature to increase your follower numbers and 3 powers to command your follower to attack, take items (I didn't try though) and teleport them all to your location. Actually I can try EFF with follower equip, but I already uninstalled them lol, and all follower framework shouldn't uninstall and install the new one during mid save, high chance to break your save. Yes I already did it.
 
 #### Weapons & Spells
 
@@ -188,6 +193,10 @@ These mods are completely inaccessible or break Skyrim Access's input translatio
 
 * **Dragonborn Voice Over 2**, 
 Unfortunately, in the current state of Skyrim Access, the SKSE Menu Framework is not yet supported. Because this mod relies heavily on that framework to function and configure its settings, it is currently completely inaccessible for blind players. I really hope the Skyrim Access developers will implement compatibility for the SKSE Menu Framework in the future so we can finally experience this amazing mod. 
+
+
+* **Popular Follower Frameworks**, 
+This included Awesome Follower Tweak, and Nether's Follower Framework. On nexus they look cool, unfortunately they are inaccessible or rather patially accessible in some options and I consider it's not a good experience to use them. I recommend you to use the list I mentioned above instead. 
 
 ---
 

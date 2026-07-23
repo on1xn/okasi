@@ -53,14 +53,22 @@ And you may need to press NVDA + space to out from their browse mode to move aro
 
 4. Click the link under the **"Current Button Layout"** heading. It should currently be something like the official Skyrim layout from Valve, but the exact name doesn't matter. In this area, there should be a link showing the layout name, along with options to view and edit it. Please click on the layout name itself.
 
-5. On this page, look for the search tab and type **"Blind Skyrim"** into the search box. You should see *"The Elder Scrolls V: Skyrim Special Edition: Blind Skyrim V. 1 ON1XN"* on the searched result, Click on it, apply layout, and done.
+5. On this page, look for the search tab and type **"Blind Skyrim"** into the search box. (It must be the exact match, I guess.) You should see *"The Elder Scrolls V: Skyrim Special Edition: Blind Skyrim V. 1 ON1XN"* on the searched result, Click on it, apply layout, and done.
 
 
 Now, under "Current Button Layout," it should display the layout name as "Blind Skyrim V. 1," meaning you're officially done. If it doesn't show up, click the link again and try looking under the "Your layouts" tab. However, I don't think you'll need to do that.
 
+### What if I really can't find your layout? I want to create my own instead
+
+First try with exactly match. Copy "Blind Skyrim" to your search box, and it should be there, i hope lol. To be honest, this search function in the community layout is a bit annoying sometimes. If you really can't find it, I have created a guide to help you make one by your self. With this, you can remap all hotkeys to your liking. However, if you want to use it with Skyrim, you must install both require mods I mentioned, otherwise it won't work.
+
+The guide to create a steam input layout is [here](../../general/steam_layout.md)
+
+After you created your own layout, you can back to read this guide again for creating a mage combo / hotkeys. The different will be only the keybinds you made and mine.
+
 ---
 
-## All Keybinds for Controller!
+## All Keybinds for Controller
 
 Some of these explanations are taken from the official mod's manual. I assume you're already familiar with the default keybinds for Skyrim Access. Since I only added missing options from the original mod, I won't explain everything here, only the keybinds I created. Again, besides the keybinds listed below, the rest remain completely default. But for any reasons you don't want to open the official manual from skyrim access and the game it self, I'll try to write here with default game keybinds.
 
@@ -207,3 +215,10 @@ If you did, you can easily fix this by rebuilding your hotkeys following the ins
 ## Final words
 
 Thanks for reading this long guide. I hope you like it and enjoy playing Skyrim Access without having to touch a keyboard. But don't forget: take your keyboard out for a date. Don't let a girl (your keyboard) cry!
+
+* 💬 **Contact Me:** Reach out via **Discord (@on1xn_th)** or **[Steam](https://steamcommunity.com/id/on1xn/)**
+
+> **A short note:** contact me through Steam maybe easier. Because I turn it on all the time.
+
+
+---

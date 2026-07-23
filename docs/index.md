@@ -15,6 +15,10 @@ And everything is written in a format that anyone can follow. (Many guides I mad
 
 ---
 
+## 📖 General Guides
+
+* **[How to Create Your Own Steam Input Layout](general/steam_layout.md)**
+
 ## 🤝 Contact
 
 * 📦 **[Okasi Project Repository](https://github.com/on1xn/okasi)**
