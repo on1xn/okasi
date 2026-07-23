@@ -179,7 +179,7 @@ While ENB crashes the game outright when something goes wrong making errors easi
 
 **A note on add-ons:** Some CS add-ons are outdated. To avoid issues, stick to the main Community Shaders mod awith lighting add-ons if your PC can handle them (such as light replacers, CS Light, True Light, and Window Shadows Ultimate).
 
-**Changing Keybinds:** By default, CS uses the **End** key to open its menu. You can change this key by opening your `overwrite` folder at the bottom of your Mod Organizer 2 (MO2) left panel. Navigate to `SKSE > CommunityShaders` and open `SettingsUser.json`. Search for `"key"` and update the value. Since CS uses standard key codes, you can ask an AI to give you the correct code for your preferred key.
+**Changing Keybinds:** By default, CS uses the **End** key to open its menu. You can change this key by opening your `overwrite` folder at the bottom of your Mod Organizer 2 (MO2) left panel. Navigate to `SKSE > CommunityShaders` and open `SettingsUser.json`. Search for `"key"` and update the value. Since CS uses standard key codes, you can ask an AI to give you the correct code for your preferred key. And all setting must be done through this json file, for example as hotkeys, turn on or off features and so on.
 
 ---
 
