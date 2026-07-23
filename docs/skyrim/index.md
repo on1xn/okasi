@@ -75,7 +75,7 @@ This mod enhances the flow of in-game dialogues. It introduces natural, realisti
 
 #### Gameplay
 
-This section is for the list of mods affect your gameplay. If you want vanilla expreience, please install it accordingly.
+These mods may change your gameplay in some degrees or completely, please avoid them if you want a pure vanilla experience.
 
 * **[Gourmet - A Cooking Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/96876)**, 
 If you're playing survival mode, I highly recommend this. Now food provides long-lasting buffs to Health, Magicka, or Stamina Regeneration.  I think they try to recreate how we eat and feel full. If you play survival mode, eating uncooked food, there is a chance to give you food poisoning as well heheheh.
@@ -189,10 +189,14 @@ These mods are completely inaccessible or break Skyrim Access's input translatio
 * **Dragonborn Voice Over 2**, 
 Unfortunately, in the current state of Skyrim Access, the SKSE Menu Framework is not yet supported. Because this mod relies heavily on that framework to function and configure its settings, it is currently completely inaccessible for blind players. I really hope the Skyrim Access developers will implement compatibility for the SKSE Menu Framework in the future so we can finally experience this amazing mod. 
 
-What this mod does? This is a much larger and more ambitious project than PC Head Tracking. While many sighted players use both mods together to maximize their character's voice capabilities, DBVO2 for short, goes a step further by giving your protagonist a fully voiced dialogue system. Instead of your character being a silent hero during conversations, this mod generates high-quality voice lines for every single dialogue option you select, making the storytelling experience incredibly immersive.
+---
+
+## 🤝 Contact
+
+* 📦 **[Okasi Project Repository](https://github.com/on1xn/okasi)**
+* 💬 **Contact Me:** Reach out via **Discord (@on1xn_th)** or **[Steam](https://steamcommunity.com/id/on1xn/)**
+
+> **A short note:** contact me through Steam maybe easier. Because I turn it on all the time.
 
 ---
 
-## 📦 **[Okasi Project Repository](https://github.com/on1xn/okasi)**
-
----

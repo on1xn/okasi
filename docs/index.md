@@ -18,6 +18,8 @@ And everything is written in a format that anyone can follow. (Many guides I mad
 ## 🤝 Contact
 
 * 📦 **[Okasi Project Repository](https://github.com/on1xn/okasi)**
-* 💬 **Contact Me:** Reach out via **Discord (@on1xn_th)**
+* 💬 **Contact Me:** Reach out via **Discord (@on1xn_th)** or **[Steam](https://steamcommunity.com/id/on1xn/)**
+
+> **A short note:** contact me through Steam maybe easier. Because I turn it on all the time.
 
 ---
