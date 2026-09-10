@@ -69,6 +69,7 @@ The first startup announcement identifies the loaded BlindLusion.KK version. Its
 - Result window from H scene in story mode is not support yet. But not affect gameplay.
 - Tutorials in game are not well instruction. Read game's manual in the game folder and BlindLusion hotkeys instead.
 - Free roam mode subtitle may not read properly at times.
+- Live Concert and Wedding are not support for now. (Wedding is DLC's content)
 - Minor issues remain, including occasional location-name/reporting problems. They should not prevent normal gameplay.
 
 ## Essential hotkeys
