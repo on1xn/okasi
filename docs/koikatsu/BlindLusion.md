@@ -94,6 +94,20 @@ Normal menus use keyboard/controller navigation. BlindLusion provides semantic s
 
 The in-game **BlindLusion Hotkeys** tabs are the authoritative, context-sensitive reference. They account for modes and controls that are only available in a particular scene.
 
+## And I want to be honest with you
+
+This project has reached a very playable state, but for Story Mode bugs and other improvements that exceed my programming capabilities, I need to ask for your support (because I've already used up all the free front-tier AI plans provided by the government. What kind of person I am? used a government AI plan for something like this?).
+
+Since I don't live in a country where money comes easily, and this project requires both front-tier AI models and local models, your support is crucial.
+Your support will be AI plan, upgrade GPU for future project, and yes junk food to make me alive. Since I used my programming skills to build and code it as well. Probably safe me from account lock by using front tier models to build a barely legal project like this.
+
+Since I have already completed over 90% of it, asking for support for this project is a very small favor to truly call it fully playable.
+
+However, my project will have [color=#FF0000][b]no paywalls, early access, or pay-for-beta-test models[/b][/color]
+Every bit of support is a collective effort to make this project and future ones succeed, acting more as a donation or crowdfunding.
+
+Of course, it is optional. Actually, both you and I will play the exact same mod version with no differences whatsoever. It's just that bug fixes moving forward will be very slow, or non-existent, if they exceed my own programming skills. Besides, I am already quite happy with what the mod can currently do.
+
 ## Support The Project
 
 - Buy me a Cup of Cola: [Ko-FI](https://ko-fi.com/on1xn)
