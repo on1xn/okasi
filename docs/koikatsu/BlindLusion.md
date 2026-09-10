@@ -60,8 +60,10 @@ The first startup announcement identifies the loaded BlindLusion.KK version. Its
 - In Story Mode, story characters are not currently trackable. Other NPCs can be dated normally and the core gameplay is playable.
 - Story Mode's Look, Touch, and bathroom Peeping are not supported yet.
 - Female Character Maker is the well-optimized Maker workflow. Male Character Maker is not yet well optimized.
+- Character height in slider and final sumarization on card information is different. It's roughly 20CM., If you want your character height 170, you may need to adjust the slider until it said 190 for example. And rework on measurement again, because changing character height also affect body sizes too.
+- Character saving is still clumcy, since I have no time to optimized it properly. You can try to mess around all arrow keys to take a photo, both Student ID and card ID. There's a save button there. Sorry for unconvenience. However, it's 100% doable.
 - Color names can be imprecise or unusual for some clothing, hair, and body-part colors, although the overall feedback is usable.
-- Character summaries and the card reader can occasionally be inaccurate. They are still detailed enough to provide a useful overview.
+- Character summaries and the card reader can occasionally be inaccurate. They are still detailed enough to provide a useful overview though.
 - Automatic walking to map exits/endpoints can get stuck more often than automatic walking to NPCs. Use Shift plus Enter to activate an endpoint. remote activation can work even when it reports a distance greater than 10–20 meters.
 - Manual walking is not supported yet.
 - H-scene caressing-method switching does not yet have dedicated hotkeys. Open the current action controls with Alt plus Q. Caressing items such as toys are not read yet.
