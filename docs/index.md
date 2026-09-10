@@ -19,10 +19,16 @@ And everything is written in a format that anyone can follow. (Many guides I mad
 
 * **[How to Create Your Own Steam Input Layout](general/steam_layout.md)**
 
-## 🤝 Contact
+## 🛠️ Mods
+
+* **[BlindLusion.KK (Koikatsu Party Accessibility Mod)](koikatsu/BlindLusion.md)**
+
+## 🤝 Contact And Support
 
 * 📦 **[Okasi Project Repository](https://github.com/on1xn/okasi)**
 * 💬 **Contact Me:** Reach out via **Discord (@on1xn_th)** or **[Steam](https://steamcommunity.com/id/on1xn/)**
+* 🥤 **Buy me a Cup of Cola:** [Ko-FI](https://ko-fi.com/on1xn)
+* 🍔 **Monthly Junk Food:** [Patreon](https://patreon.com/on1xn)
 
 > **A short note:** contact me through Steam maybe easier. Because I turn it on all the time.
 
