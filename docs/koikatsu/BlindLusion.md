@@ -59,9 +59,9 @@ The first startup announcement identifies the loaded BlindLusion.KK version. Its
 
 - In Story Mode, story characters are not currently trackable. Other NPCs can be dated normally and the core gameplay is playable.
 - Story Mode's Look, Touch, and bathroom Peeping are not supported yet.
-- Female Character Maker is the well-optimized Maker workflow. Male Character Maker is not yet well optimized.
-- Character height in slider and final sumarization on card information is different. It's roughly 20CM., If you want your character height 170, you may need to adjust the slider until it said 190 for example. And rework on measurement again, because changing character height also affect body sizes too.
-- Character saving is still clumcy, since I have no time to optimized it properly. You can try to mess around all arrow keys to take a photo, both Student ID and card ID. There's a save button there. Sorry for unconvenience. However, it's 100% doable.
+- Female Character Maker is the well-optimized Maker workflow. Although there are cursor jumps or trickly to navigate in certain categories, need to get used to. Male Character Maker is not yet well optimized.
+- Character height in slider and final sumarization on card information is different. It's roughly 20 - 25CM., If you want your character height 170, you may need to adjust the slider until it said 190 for example. And rework on measurement again, because changing character height also affect body sizes too.
+- Character saving is still clumcy, since I have no time to optimized it properly. You can try to mess around all arrow keys to take a photo, both Student ID and card ID. There's a save button after you took photo on your character. Sorry for unconvenience. However, it's 100% doable.
 - Color names can be imprecise or unusual for some clothing, hair, and body-part colors, although the overall feedback is usable.
 - Character summaries and the card reader can occasionally be inaccurate. They are still detailed enough to provide a useful overview though.
 - Automatic walking to map exits/endpoints can get stuck more often than automatic walking to NPCs. Use Shift plus Enter to activate an endpoint. remote activation can work even when it reports a distance greater than 10–20 meters.
@@ -96,19 +96,14 @@ The in-game **BlindLusion Hotkeys** tabs are the authoritative, context-sensitiv
 
 ## And I want to be honest with you
 
-This project has reached a very playable state, but for Story Mode bugs and other improvements that exceed my programming capabilities, I need to ask for your support (because I've already used up all the free front-tier AI plans provided by the government. What kind of person I am? used a government AI plan for something like this?).
+This project has reached a very playable state, but for Story Mode bugs and other improvements that exceed my programming capabilities, I need to ask for your support.
 
-Since I don't live in a country where money comes easily, and this project requires both front-tier AI models and local models, your support is crucial.
+Since I don't live in a country where money comes easily, and this project requires both front-tier AI models and local models, including my energy to review the code by my self + extra manual workflow, your support is crucial. 
+I have already completed over 90% of it, asking for support for this project is a very small favor to truly call it fully playable. (And it's not that much as you thought)
 
-Your support will be AI plan, upgrade GPU for future project, and yes junk food to make me alive. Since I used my programming skills to build and code it as well. Probably safe me from account lock by using front tier models to build a barely legal project like this.
+Every bit of support is a collective effort to make this project and future ones succeed, acting more as a donation or crowdfunding. No paywall, early access or pay for beta test at all.
 
-Since I have already completed over 90% of it, asking for support for this project is a very small favor to truly call it fully playable.
-
-However, my project will have no paywalls, early access, or pay-for-beta-test models.
-
-Every bit of support is a collective effort to make this project and future ones succeed, acting more as a donation or crowdfunding.
-
-Of course, it is optional. Actually, both you and I will play the exact same mod version with no differences whatsoever. It's just that bug fixes moving forward will be very slow, or non-existent, if they exceed my own programming skills. Besides, I am already quite happy with what the mod can currently do.
+Of course, it is only optional. It's just that bug fixes moving forward will be very slow, or non-existent, if they exceed my own programming skills. Besides, I am already quite happy with what the mod can currently do.
 
 ## Support The Project
 
